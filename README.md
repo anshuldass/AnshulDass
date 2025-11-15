@@ -14,7 +14,7 @@ I specialize in **SQL, Python, PySpark**, and **Azure Data Factory (ADF)**, buil
 
 ## Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/anshuldass/01.SQL)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,7 +32,7 @@ This repository is my **SQL Practice Hub** where I organize exercises from **Beg
 - ✅ Query optimization and indexing practice  
 - ✅ AdventureWorks 2022 dataset included  
 
-### 🔗 [View 01.SQL Repo](https://github.com/anshuldass/01.SQL)
+### 🔗View Repo: [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/anshuldass/01.SQL)
 ---
 
 ## GitHub Stats
