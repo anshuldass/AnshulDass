@@ -20,6 +20,20 @@ I specialize in **SQL, Python, PySpark**, and **Azure Data Factory (ADF)**, buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🔹 Featured Repository: 01.SQL
+
+[![01.SQL](https://img.shields.io/badge/SQL-Practice-blue?style=flat-square)](https://github.com/anshuldass/01.SQL)  
+
+This repository is my **SQL Practice Hub** where I organize exercises from **Beginner → Intermediate → Advanced** using real-world datasets like **AdventureWorks2022**.  
+
+### Repo Highlights:
+- ✅ Beginner to Advanced SQL exercises  
+- ✅ Stored Procedures, Subqueries, Joins, Window Functions  
+- ✅ Query optimization and indexing practice  
+- ✅ AdventureWorks 2022 dataset included  
+
+### [🔗Link to 01.SQL](https://github.com/anshuldass/01.SQL)
+---
 
 ## GitHub Stats
 ![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuldass&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
