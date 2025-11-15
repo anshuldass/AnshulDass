@@ -32,7 +32,7 @@ This repository is my **SQL Practice Hub** where I organize exercises from **Beg
 - ✅ Query optimization and indexing practice  
 - ✅ AdventureWorks 2022 dataset included  
 
-### [🔗Link to 01.SQL](https://github.com/anshuldass/01.SQL)
+### 🔗 [View 01.SQL Repo](https://github.com/anshuldass/01.SQL)
 ---
 
 ## GitHub Stats
@@ -51,3 +51,7 @@ This repository is my **SQL Practice Hub** where I organize exercises from **Beg
 ---
 
 _"Data is not just numbers; it's the story waiting to be told."_
+
+
+
+
