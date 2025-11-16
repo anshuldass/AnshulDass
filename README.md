@@ -36,7 +36,6 @@ This repository is my **SQL Practice Hub** where I organize exercises from **Beg
 ---
 
 ## GitHub Stats
-![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuldass&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldass&layout=compact&theme=tokyonight&hide_border=true)
 
